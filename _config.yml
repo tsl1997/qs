@@ -2,8 +2,11 @@ title: 先圣
 subtitle: ""
 description: 只赚认知范围内的钱！
 keywords: null
-author: 先圣
-language: zh-CN
+author: https://gateway.pinata.cloud/ipfs/QmbRRdkY81kDFFYgSYdJV9h99KU8mP7bQUMQuY5HB65eV8
+language:
+  - zh-CN
+  - en
+  - zh-TW
 timezone: Etc/GMT-8
 url: https://tsl1997.github.io/Myspace
 permalink: :title/

@@ -2,11 +2,6 @@ title: 先圣
 subtitle: "只赚认知范围内的钱！"
 description: 只赚认知范围内的钱！
 avatar: https://gateway.pinata.cloud/ipfs/QmbRRdkY81kDFFYgSYdJV9h99KU8mP7bQUMQuY5HB65eV8
-welcome:
-      layout: markdown
-      title: 欢迎
-      content:
-        - '欢迎光临小站，本站提供一些有必要存储的内容。。'
 keywords: null
 author: 先圣
 language:
@@ -17,6 +12,18 @@ timezone: Etc/GMT-8
 url: https://tsl1997.github.io/Myspace
 permalink: :title/
 permalink_defaults: null
+sidebar:
+  welcome:
+      layout: markdown
+      title: 欢迎
+      content:
+        - '欢迎光临小站，本站提供一些有必要存储的内容。。'
+  menu:
+    post: '[btn.blog](/)'
+    wiki: '[btn.wiki](/wiki/)'
+    notes: '[笔记](/notes/)'
+    more: '[更多](/more/)'
+    
 pretty_urls:
   trailing_index: true
   trailing_html: true

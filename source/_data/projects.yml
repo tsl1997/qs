@@ -1,8 +1,7 @@
 Stellar:
-  cover: false
   logo:
     src: https://cdn.jsdelivr.net/gh/cdn-x/wiki@1.0.2/stellar/icon.svg
     small: 120px
     large: 240px
-  description：这是一个全新的主题，拥有精心设计的样式和强大的功能。目前还没开发完毕，旧的文章正在逐步迁移至新主题。
+
   

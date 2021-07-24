@@ -12,18 +12,6 @@ timezone: Etc/GMT-8
 url: https://tsl1997.github.io/Myspace
 permalink: :title/
 permalink_defaults: null
-sidebar:
-  welcome:
-      layout: markdown
-      title: 欢迎
-      content:
-        - '欢迎光临小站，本站提供一些有必要存储的内容。。'
-  menu:
-    post: '[btn.blog](/)'
-    wiki: '[btn.wiki](/wiki/)'
-    notes: '[笔记](/notes/)'
-    more: '[更多](/more/)'
-    
 pretty_urls:
   trailing_index: true
   trailing_html: true

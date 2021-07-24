@@ -1,0 +1,5 @@
+welcome:
+  layout: markdown
+  title: 欢迎欢迎
+  content:
+    - '欢迎光临小站，我是先圣。'

@@ -72,7 +72,7 @@
   </div>
 </div>
 
-<div class="widget-wrap" id="recent"><div class="widget-header cap dis-select"><span class="name">最近更新</span></div><div class="widget-body fs14"><div class="line"></div><a class="more-item" href="/Myspace/wiki/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/index.html"><div class="cap"><time>2021-07-24</time><span>个人主页</span></div><span class="title">https://royal-sun-5884.on.fleek.co/</span></a><div class="line"></div><a class="more-item" href="/Myspace/wiki/stellar/index.html"><div class="cap"><time>2021-07-24</time><span>Stellar</span></div><span class="title">快速开始您的博客之旅</span></a></div></div>
+<div class="widget-wrap" id="recent"><div class="widget-header cap dis-select"><span class="name">最近更新</span></div><div class="widget-body fs14"><div class="line"></div><a class="more-item" href="/Myspace/wiki/stellar/index.html"><div class="cap"><time>2021-07-24</time><span>Stellar</span></div><span class="title">快速开始您的博客之旅</span></a><div class="line"></div><a class="more-item" href="/Myspace/wiki/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/index.html"><div class="cap"><time>2021-07-24</time><span>个人主页</span></div><span class="title">https://royal-sun-5884.on.fleek.co/</span></a></div></div>
 </div>
 
 
@@ -253,6 +253,34 @@
 
 
 <!-- optional -->
+
+  <script>
+  function loadBeaudar() {
+    const els = document.querySelectorAll("#comments #beaudar");
+    if (els.length === 0) return;
+    els.forEach((el, i) => {
+      try {
+        el.innerHTML = '';
+      } catch (error) {
+        console.log(error);
+      }
+      var script = document.createElement('script');
+      script.src = 'https://beaudar.lipk.org/client.js';
+      script.async = true;
+      for (let key of Object.keys(el.attributes)) {
+        let attr = el.attributes[key];
+        if (['class', 'id'].includes(attr.name) === false) {
+          script.setAttribute(attr.name, attr.value);
+        }
+      }
+      el.appendChild(script);
+    });
+  }
+  window.addEventListener('DOMContentLoaded', (event) => {
+      loadBeaudar();
+  });
+</script>
+
 
 
 

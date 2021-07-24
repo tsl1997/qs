@@ -1,5 +1,5 @@
 Stellar:
-  cover: true
+  cover: false
   logo:
     src: https://cdn.jsdelivr.net/gh/cdn-x/wiki@1.0.2/stellar/icon.svg
     small: 120px

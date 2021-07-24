@@ -4,7 +4,7 @@ Stellar:
     src: https://cdn.jsdelivr.net/gh/cdn-x/wiki@1.0.2/stellar/icon.svg
     small: 120px
  #   large: 240px
- 个人主页:
+个人主页:
   cover: false
   logo:
     src: https://gateway.pinata.cloud/ipfs/QmQT3VNRFbBsLG2cxpSPMdqyfw5gBA6CwjtM9ABP3b9ewK/love%20live.jpg

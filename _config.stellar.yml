@@ -1,0 +1,9 @@
+sidebar:
+  menu:
+    post: '[btn.blog](/)'
+    wiki: '[btn.wiki](/wiki/)'
+    notes: '[笔记](/notes/)'
+    ss:
+      title: 瞬
+      url: https://www.matataki.io/user/3042
+    more: '[更多](/more/)'

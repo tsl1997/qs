@@ -9,7 +9,7 @@ language:
   - en
   - zh-TW
 timezone: Etc/GMT-8
-url: https://tsl1997.github.io/Myspace
+url: https://tsl1997.github.io/qq
 permalink: :title/
 permalink_defaults: null
 pretty_urls:

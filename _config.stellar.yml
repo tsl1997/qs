@@ -3,4 +3,4 @@ sidebar:
     post: '[btn.blog](/)'
     wiki: '[btn.wiki](/wiki/)'
     notes: '[便签](/notes/)'
-  #  more: '[更多](/more/)'
+    more: '[关于](/about/)'

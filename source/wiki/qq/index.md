@@ -1,6 +1,6 @@
 ---
 layout: wiki
-wiki: qq
+wiki: qq说说
 order: -20220111
 seo_title: 这里存储信息流列表
 title: QQ说说一览

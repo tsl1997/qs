@@ -1,10 +1,15 @@
 ---
 layout: wiki
-wiki: qq
-order: 2
-title: qq说说
-seo_title: qq说说
-description: hi！所以的动态都在这里。
+wiki: QQ空间
+order: 0
+title: QQ空间
+seo_title: QQ空间
+cover: true
+logo:
+  src: https://cdn.jsdelivr.net/gh/Less-star/image-host/Wallpaper/1.png
+  small: 
+  large: 
+description: 欢迎来到我的QQ空间
 ---
 
 ## 兴趣爱好

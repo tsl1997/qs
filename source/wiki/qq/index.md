@@ -1,6 +1,6 @@
 ---
 layout: wiki
-wiki: qq说说
+wiki: qq
 order: 2
 title: qq说说
 seo_title: qq说说
